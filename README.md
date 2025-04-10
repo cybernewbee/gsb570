@@ -1,2 +1,2 @@
-# gsb570
-Gen AI course
+# generative-ai-learning
+Repo used for learning materials 
