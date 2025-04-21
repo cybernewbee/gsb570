@@ -3,7 +3,7 @@ import os
 from psycopg2 import OperationalError
 from dotenv import load_dotenv
 
-load_dotenv()
+load_dotenv(load_dotenv("/Users/marvinlee/Documents/vs_code/gsb_570/gsb570/3-Embeddings/.env"))
 
 db_name = os.getenv('DBNAME')
 db_user =  os.getenv('DBUSER')
